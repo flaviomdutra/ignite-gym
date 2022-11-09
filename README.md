@@ -1,17 +1,14 @@
-# Ignite Gym - APP
+# Ignite Gym - App
 
-Ignite Gym é um App para gestão de atividades na Academia.
+Ignite Gym is an App for managing exercises at the Gym.
+The App allows you to register your workouts separated by muscle groups, and/or training days.
 
-## Sobre
+## Features
 
-O App permite que você cadastre os seus treinos separados por grupos musculares, e/ou dias de treino.
+With the APP you will:
+- Register workouts
 
-## Funcionalidades
-
-Com o APP você irá:
-- Cadastrar treinos
-
-## Tecnologias
+## Technologies
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/)
