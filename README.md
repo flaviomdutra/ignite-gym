@@ -30,6 +30,15 @@ Technologies used in this project:
 - [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+## Quick Overview
+
+Use **yarn** or **npm install** to install as project dependencies.
+Then start the project.
+
+```cl
+expo start
+```
+
 ## 💻 Project
 
 Ignite Gym is a mobile application to manage your gym workouts. In this app you can record your activity histories. And see exercises by muscle groups.
