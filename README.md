@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    Ignite Gym
+     <img alt="IgniteGym" src=".github/logo.svg" width="50px"><br>Ignite Gym
 </h1>
 
 <p align="center">
